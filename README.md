@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hafiz Amanudeen Pallimukku
 
-<!--
-**AS-INVENTIONS/AS-INVENTIONS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Passionate about **Programming, Electronics, and Science**  
+🛠️ Always experimenting, building, and learning new technologies  
+📍 Based in India 🇮🇳  
+📚 Self-learner with a deep interest in embedded systems & C++ logic engines  
+🚀 Currently working on: Custom Arduino Math Library (DeepMath.h)
 
-Here are some ideas to get you started:
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8020--8476-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8020-8476)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 “Think deeply, build logically, and automate smartly.”  
+> 💡 I strongly believe in learning by doing and love pushing the boundaries of what's possible with microcontrollers.
+
+---
+
+### 🧠 My Interests
+- Embedded C / C++
+- ESP32-CAM & Microcontroller Projects
+- Manual Big Number Arithmetic Logic
+- Pure Logic-Based Algorithms without Libraries
+
+---
+
+### 🔗 Connect with me:
+- 🌐 [ORCID Profile](https://orcid.org/0009-0003-8020-8476)
+- 🧠 [GitHub Projects](https://github.com/AS-INVENTIONS)
